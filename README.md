@@ -2,6 +2,6 @@
 
 
 
-<a href="lorenc-cici.github.io/education"> Education </a>
+<a href="https://lorenc-cici.github.io/education.html"> Education </a>
 
 
