@@ -1,3 +1,11 @@
+<marquee behavior="scroll" direction="left" scrollamount="1">Hi...</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="10">Hii...</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="20">Hiii...</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="50">Hiiii!</marquee>
+
+
+
+
 
 <video controls>
   <source src="Interfaces Team Small.mp4" type="video/mp4">
