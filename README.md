@@ -1,3 +1,6 @@
+
+<!--
+
 <marquee behavior="scroll" direction="left" scrollamount="1">Hi...</marquee>
 <marquee behavior="scroll" direction="left" scrollamount="10">Hii...</marquee>
 <marquee behavior="scroll" direction="left" scrollamount="20">Hiii...</marquee>
