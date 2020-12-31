@@ -1,4 +1,10 @@
 
+
+div.b {
+  
+
+
+
   <video width="840" height="560" controls>
   <source src="2020 in Pictures.mp4" type="video/mp4">
   <source src="2020 in Pictures.mp4" type="video/webm">
@@ -6,3 +12,5 @@
      a <a href="2020 in Pictures.mp4">link to the video</a> instead.</p>
 </video>
 
+
+}
