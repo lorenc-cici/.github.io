@@ -10,4 +10,8 @@
 </video>
 
 
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7734552&style=0032&nbdigits=2&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>                                    
+                                    
 
