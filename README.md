@@ -12,7 +12,7 @@
 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-  <p>Visitor Counter </p>
-<img src="https://hitwebcounter.com/counter/counter.php?page=7734552&style=0032&nbdigits=2&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>                                    
-                                    
+<p>Visitor Counter 
+<img src="https://hitwebcounter.com/counter/counter.php?page=7734552&style=0032&nbdigits=2&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" />                                    
+</p>                                    
 
