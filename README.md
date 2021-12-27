@@ -1,5 +1,15 @@
 
+<body> 2021 In Pictures </body>
+  <video width="740" height="460" controls>
+  <source src="2021 in Pictures.mp4" type="video/mp4">
+  <source src="2021 in Pictures.mp4" type="video/webm">
+  <p> <a href="2021 in Pictures.mp4"></a></p>
+</video>
 
+<head> </head>
+<head> </head>
+<head> </head>
+<head> </head>
 
 <body> 2020 In Pictures </body>
   <video width="740" height="460" controls>
