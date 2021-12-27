@@ -1,6 +1,5 @@
 
 <H1> 2021 In Pictures </H1>
-<br>
   <video width="740" height="460" controls>
   <source src="2021 in Pictures.mp4" type="video/mp4">
   <source src="2021 in Pictures.mp4" type="video/webm">
@@ -10,7 +9,7 @@
 <br>
 <br>
 
-<body> 2020 In Pictures </body>
+<H2> 2020 In Pictures </H2>
   <video width="740" height="460" controls>
   <source src="2020 in Pictures.mp4" type="video/mp4">
   <source src="2020 in Pictures.mp4" type="video/webm">
