@@ -1,9 +1,9 @@
 
 <H1> 2021 In Pictures </H1>
   <video width="740" height="460" controls>
-  <source src="2021 in Pictures.mp4" type="video/mp4">
-  <source src="2021 in Pictures.mp4" type="video/webm">
-  <p> <a href="2021 in Pictures.mp4"></a></p>
+  <source src="2021.mp4" type="video/mp4">
+  <source src="2021.mp4" type="video/webm">
+  <p> <a href="2021.mp4"></a></p>
 </video>
 
 <br>
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<body> 2019 </body>
+<H2> 2019 </H2>
   <video width="740" height="460" controls>
   <source src="Interfaces Team Small.mp4" type="video/mp4">
   <source src="Interfaces Team Small.mp4" type="video/webm">
